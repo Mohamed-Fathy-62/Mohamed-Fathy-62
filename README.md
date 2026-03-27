@@ -1,7 +1,7 @@
 ### 
 <h2 align="center">
 Hi there 👋<br>I'm Mohamed Fathy — a Full‑Stack Engineer passionate about building scalable web applications, clean architectures, and great user experiences.</h2>
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
